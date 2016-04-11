@@ -1,4 +1,4 @@
-# irc-to-slack
+# irksy
 Echo IRC messages from specific channels to your slack channel.
 
 - Install necessary npm packages
